@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="pensamento computacional" content="width=device-width, initial-scale=1.0">
+    <title>prova 0.1</title>
+   <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <p>Bem vindo ao site!</p>
+    <img src="https://eretz.bio/wp-content/uploads/2020/09/logo-pv-vertical-fundo-claro-01-800x461.png" alt="" srcset="">
+    <ul>
+        <li>atendimento de segunda à sexta </li> <li> das 9 da manhã até às 19 da noite </li>
+    </ul>
+    
+    <img src="https://www.psicologiaviva.com.br/assets/img/site/logosite.png" alt="" srcset="">   <ol>                                                                 
+        <li>email de contado; Mariazinha123@gmail</li>                            
+        <li>número para contado; 400028922</li>
+        <li>redes sociais @psi_ma</li>
+    </ol>
+
+    <table border="1">
+        <tr>
+            <td>nome</td>
+            <td>função</td>
+            <td>contado</td>
+        </tr>
+        <tr>
+            <td>Manda</td>
+            <td>psicologa</td>
+            <td>026011998</td>
+        </tr>
+        <tr>
+            <td>Oliver</td>
+            <td>psicologo</td>
+            <td>005072022</td>
+        </tr>
+        <tr>
+            <td>Michelle</td>
+            <td>secretaria</td>
+            <td>400028922</td>
+        </tr>
+        <tr>
+            <td>Maria</td>
+            <td>secretaria</td>
+            <td>400028922</td>
+        </tr>
+    </table>
+    <form>
+        <label for="fname">Seu nome:</label><br>
+        <input type="text" id="fname" name="fname"><br>
+      </form>
+      <input type="button" onclick="alert('Obrigada por visitar nosso site!')" value="Click Me!">
+</body>
+</html>
